@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    object-fit: cover;
+}
+
+#searchSection {
+    width: 100%;
+    height: 20vh;
+    padding-top: 2rem;
+}
+
+#mainVhaicelSection {
+    width: 100%;
+}
